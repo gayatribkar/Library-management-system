@@ -1,0 +1,4 @@
+Harry Potter,Jk Rowling,30,$2
+Lord of the Rings, JRR Tolkien,25,$1.8
+Programming With Python,John Smith,26,$1.5
+The Christmas Pig,Jk Rowling,15,$1
